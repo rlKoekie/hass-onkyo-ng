@@ -12,7 +12,7 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/kongo09/hass-onkyo-ng/issues",
   "name": "Onkyo NG",
-  "requirements": ["https://github.com/dannytrigo/onkyo-eiscp/archive/refs/tags/1.2.14.zip"],
+  "requirements": ["dannytrigo-onkyo-eiscp==1.2.14"],
   "version": "0.0.1",
   "loggers": ["eiscp", "eiscp.core"]
 }
